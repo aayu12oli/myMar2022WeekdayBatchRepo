@@ -6,7 +6,8 @@
     </head>
 <body>
 <h2> 
-	<h2> We are migrating this WebApp from GitHub into Azure cloud using Azure piplines!!!!!!!!</h2>
+	Hi all! we are implementing Declarative pipeline using Jenkins to integrate with GitHub, Maven, Tomcat, Sonar, Nexus and Slack!!!!!!</h2>
+	<h2> Declarative pipeline - Jenkins pipeline as a code!!!!</h2>
   
 </body>
 </html>
